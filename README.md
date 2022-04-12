@@ -1,7 +1,14 @@
 
+<img src="./img/photo.jpg" alt="альтернативный текст">
+
+
 <h1 align="center">Привет, меня зовут Гультяев Игорь</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Я изучаю Java, работаю в ИТ компании "КОНСИСТ-ОС" Russia 🇷🇺</h3>
+
+## <img src="./img/netology.jpg" alt="Мои работы">
+
+
 
 ## Домашние задания по курсу «Основы Java» <>
 
