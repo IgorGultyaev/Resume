@@ -131,9 +131,9 @@
 #### [3.Командная работа](https://github.com/IgorGultyaev/git-homeworks/tree/master/remote)
 
 > [3.1 Конфликт при push'е](https://github.com/IgorGultyaev/NeuroStartUp2)  
-> [3.2.1 Работа с issues](https://github.com/netology-code/git-homeworks-neuro-issues/issues/8360)
-> [3.2.2 Работа с issues](https://github.com/netology-code/git-homeworks-neuro-issues/issues/8361)
-> [3.3 Pull-Request](https://github.com/IgorGultyaev/git-homeworks-neuro-fork.git)  
+> [3.2.1 Работа с issues](https://github.com/netology-code/git-homeworks-neuro-issues/issues/8360)  
+> [3.2.2 Работа с issues](https://github.com/netology-code/git-homeworks-neuro-issues/issues/8361)  
+> [3.3 Pull-Request](https://github.com/IgorGultyaev/git-homeworks-neuro-fork.git)
 
 
 [руководство по работе в терминале](https://github.com/netology-code/guides/blob/master/git-terminal/git-terminal.md).
