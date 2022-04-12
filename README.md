@@ -6,12 +6,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я изучаю Java, работаю в ИТ компании "КОНСИСТ-ОС" Russia 🇷🇺</h3> <img src="./img/лого.jpg" alt="Консист">
 
-## <img src="./img/netology.jpg" alt="Нетология">
-
-
 
 ## Мои работы по курсу «Основы Java» <>
-
+## <img src="./img/netology.jpg" alt="Нетология">
 ### [Словарь терминов Java](https://github.com/netology-code/java-homeworks/blob/master/java_glossary.md)
 
 ### Блок 1. Основы Java
