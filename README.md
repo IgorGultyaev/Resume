@@ -130,7 +130,7 @@
 [Конвертер в текстовую графику](https://github.com/IgorGultyaev/java-diplom)
 
 
-## Домашние задания по курсу «Git - система контроля версий» ## <img src="./img/git.jpg" alt="Git">
+## Домашние задания по курсу «Git - система контроля версий» <img src="./img/git.jpg" alt="Git">
 
 [1.		Внедрение системы контроля версий](https://github.com/IgorGultyaev/git-homeworks/tree/master/introduction)
 
