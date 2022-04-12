@@ -12,13 +12,13 @@
 
 ## Домашние задания по курсу «Основы Java» <>
 
-### [Словарь терминов Java](./java_glossary.md/)
+### [Словарь терминов Java](https://github.com/netology-code/java-homeworks/blob/master/java_glossary.md)
 
 ### Блок 1. Основы Java
 
-[1.1 Введение в программирование на Java](introduction)
+[1.1 Введение в программирование на Java](https://github.com/netology-code/java-homeworks/tree/master/introduction)
 
-[1.2	Структура программы](program-structure)
+[1.2	Структура программы](https://github.com/netology-code/java-homeworks/tree/master/program-structure)
 
 [1.3.   Условные операторы и циклы](conditional-statements-cycles)
 
