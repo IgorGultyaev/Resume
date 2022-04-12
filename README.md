@@ -116,19 +116,25 @@
 #### [1.  Внедрение системы контроля версий](https://github.com/IgorGultyaev/git-homeworks/tree/master/introduction)
 
 > [1.1 Демонстрация](https://github.com/IgorGultyaev/NeuroStartUp)  
-> [1.2 Импорт существующего проекта](https://github.com/IgorGultyaev/NeuroStartUp)  
+> [1.2 Импорт существующего проекта](https://github.com/IgorGultyaev/NeuroStartUp.git)  
 > [1.3 Откат изменений](https://github.com/IgorGultyaev/NeuroStartUpRevent)  
 
 
 #### [2. История и работа с ветками](https://github.com/IgorGultyaev/git-homeworks/tree/master/branch)
 
-> [1.1 Создание веток](https://github.com/IgorGultyaev/NeuroStartUpBranch)  
-> [1.2 Слияние изменений](https://github.com/IgorGultyaev/NeuroStartUp2)  
-> [1.3 Работа с историей и переключение между коммитами]()  
+> [2.1 Создание веток](https://github.com/IgorGultyaev/NeuroStartUpBranch)  
+> [2.2 Слияние изменений](https://github.com/IgorGultyaev/NeuroStartUp2)  
+> [2.3 Работа с историей и переключение между коммитами] 
 
 
 
 #### [3.Командная работа](https://github.com/IgorGultyaev/git-homeworks/tree/master/remote)
+
+> [3.1 Конфликт при push'е](https://github.com/IgorGultyaev/NeuroStartUp2)  
+> [3.2.1 Работа с issues](https://github.com/netology-code/git-homeworks-neuro-issues/issues/8360)
+> [3.2.2 Работа с issues](https://github.com/netology-code/git-homeworks-neuro-issues/issues/8361)
+> [3.3 Pull-Request](https://github.com/IgorGultyaev/git-homeworks-neuro-fork.git)  
+
 
 [руководство по работе в терминале](https://github.com/netology-code/guides/blob/master/git-terminal/git-terminal.md).
 
