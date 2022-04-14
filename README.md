@@ -46,7 +46,7 @@
 
 #### [2.1	Задача массивы одномерные](https://github.com/IgorGultyaev/java-homeworks/tree/master/one-dimensional-array)
 
- [1.2.1 Покупка товаров](https://replit.com/@IgorGul1/NetologyJavaTasks211)  
+> [1.2.1 Покупка товаров](https://replit.com/@IgorGul1/NetologyJavaTasks211)  
 
 
 #### [2.2	Задача массивы многомерные](https://github.com/IgorGultyaev/java-homeworks/tree/master/multidimensional-array)
