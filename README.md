@@ -149,20 +149,20 @@
 > [6.1.3 Работяга](https://github.com/IgorGultyaev/Worker)  
 
 
-6.2 [Stream API. Потоки, повторные вызовы, основные методы](./streams/README.md)
+6.2 [Stream API. Потоки, повторные вызовы, основные методы](https://github.com/IgorGultyaev/jd-homeworks/blob/master/streams/README.md)
 > [6.2.1 Работа с числами](https://github.com/IgorGultyaev/WorkingWithNum)  
 > [6.2.2 Перепись населения](https://github.com/IgorGultyaev/PopulationCensus)
 
-6.3 [Потоки ввода-вывода. Работа с файлами. Сериализация](./files/README.md)
+6.3 [Потоки ввода-вывода. Работа с файлами. Сериализация](https://github.com/IgorGultyaev/jd-homeworks/blob/master/files/README.md)
 > [6.3.1 Установка](https://github.com/IgorGultyaev/Installation)  
 > [6.3.2 Сохранение](https://github.com/IgorGultyaev/Save)   
 > [6.3.3 Загрузка](https://github.com/IgorGultyaev/Load)
 
-6.4 [Сборка проектов. Maven и Gradle](./builders/README.md)
+6.4 [Сборка проектов. Maven и Gradle](https://github.com/IgorGultyaev/jd-homeworks/blob/master/builders/README.md)
 > [6.4.1 Многомодульный проект на Maven](https://github.com/IgorGultyaev/maven-example)  
 > [6.4.2 Многомодульный проект на Gradle](https://github.com/IgorGultyaev/gradle-example)
 
-6.5 [Работа с файлами CSV, XML, JSON (3 задачи в одном проекте)](./special_files/README.md)
+6.5 [Работа с файлами CSV, XML, JSON (3 задачи в одном проекте)](https://github.com/IgorGultyaev/jd-homeworks/blob/master/special_files/README.md)
 > [6.5.1 CSV - JSON парсер](https://github.com/IgorGultyaev/ParserTo)  
 > [6.5.2 XML - JSON парсер](https://github.com/IgorGultyaev/ParserTo)  
 > [6.5.3 JSON парсер](https://github.com/IgorGultyaev/ParserTo)
@@ -195,19 +195,19 @@
 
 # 9. Домашние задания по курсу «Шаблоны проектирования»
 
-9.1 [Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype](./creational/README.md)
+9.1 [Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype](https://github.com/IgorGultyaev/jd-homeworks/blob/master/creational/README.md)
 > [9.1.1 Люди](https://github.com/IgorGultyaev/people)  
 > [9.1.2 Логгер](https://github.com/IgorGultyaev/logger)
 
-9.2 [Структурные шаблоны. Adapter, Proxy, Decorator, Facade, Flyweight](./structural/README.md)
+9.2 [Структурные шаблоны. Adapter, Proxy, Decorator, Facade, Flyweight](https://github.com/IgorGultyaev/jd-homeworks/blob/master/structural/README.md)
 > [9.1.1 Калькулятор](https://github.com/IgorGultyaev/patternCalculator)  
 > [9.2.1 Двоичный фасад](https://github.com/IgorGultyaev/BinaryFacade)
 
-9.3 [Поведенческие шаблоны. Command, CoR, Observer, Iterator](./behave/README.md)
+9.3 [Поведенческие шаблоны. Command, CoR, Observer, Iterator](https://github.com/IgorGultyaev/jd-homeworks/blob/master/behave/README.md)
 > [9.3.1 Бесконечная итерация]
 
 
-9.4 [Magics, DRY, SOLID](./solid/README.md)
+9.4 [Magics, DRY, SOLID](https://github.com/IgorGultyaev/jd-homeworks/blob/master/solid/README.md)
 > [9.4.1 Магазин]
 
 # Итоговая работа
