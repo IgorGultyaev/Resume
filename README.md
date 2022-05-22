@@ -204,7 +204,7 @@
 > [9.2.1 Двоичный фасад](https://github.com/IgorGultyaev/BinaryFacade)
 
 9.3 [Поведенческие шаблоны. Command, CoR, Observer, Iterator](https://github.com/IgorGultyaev/jd-homeworks/blob/master/behave/README.md)
-> [9.3.1 Бесконечная итерация]
+> [9.3.1 Бесконечная итерация](https://github.com/IgorGultyaev/InfiniteIteration)
 
 
 9.4 [Magics, DRY, SOLID](https://github.com/IgorGultyaev/jd-homeworks/blob/master/solid/README.md)
