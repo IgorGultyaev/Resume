@@ -208,7 +208,7 @@
 
 
 9.4 [Magics, DRY, SOLID](https://github.com/IgorGultyaev/jd-homeworks/blob/master/solid/README.md)
-> [9.4.1 Магазин]
+> [9.4.1 Магазин](https://github.com/IgorGultyaev/shop)
 
 # Итоговая работа
 
