@@ -212,8 +212,9 @@
 
 # Итоговая работа
 
-> [Курсовая работа к модулю «Java Core»: Менеджер задач]  
-> [Дипломная работа. Поисковая система]
+> [Курсовая работа к модулю «Java Core»: Менеджер задач](https://github.com/IgorGultyaev/pcs-javacore1)
+>
+> [Дипломная работа. Поисковая система (в работе)](https://github.com/IgorGultyaev/pcs-jd-diplom-main)
 
 
 
